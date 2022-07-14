@@ -1,0 +1,23 @@
+
+{
+Kapp/src/main/java/com/programmingwithahmed/composeexample1/ui/theme/Type.kt,c\b\cbc975607a7ec975c05de75d9499f1a550183af5
+|
+Lapp/src/main/java/com/programmingwithahmed/composeexample1/ui/theme/Color.kt,c\d\cd3ffdb30c9e783dd5f60d3a43085b98b483480d
+|
+Lapp/src/main/java/com/programmingwithahmed/composeexample1/ui/theme/Theme.kt,0\2\0215d6b91d9815846339c2eae73e04eef58009e8
+Ö
+Uapp/src/main/java/com/programmingwithahmed/composeexample1/ui/screens/ColumnScreen.kt,3\d\3dd89baf329fb819d8c3afdf6cf7ca7b480fb74d
+Ç
+Rapp/src/main/java/com/programmingwithahmed/composeexample1/ui/screens/BoxScreen.kt,d\7\d7250c47313efd1a193942a5b8871d267a170b18
+é
+^app/src/main/java/com/programmingwithahmed/composeexample1/ui/screens/TextCustomationScreen.kt,b\8\b83e2f197c31b29bf089b3112575e1eda9d0a65e
+å
+\app/src/main/java/com/programmingwithahmed/composeexample1/ui/screens/TextSelectionScreen.kt,4\0\4016fcb96a96d1b8a2ef02eab5af191374aeac8a
+ç
+]app/src/main/java/com/programmingwithahmed/composeexample1/ui/screens/ExpandableCardScreen.kt,3\3\33c42c2d42e43c0719c86e1e786be8820f5a9406
+|
+Lapp/src/main/java/com/programmingwithahmed/composeexample1/ui/theme/Shape.kt,8\d\8db05bdf7a4b28f84a76be9736dceb69bb6f5908
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+à
+Xapp/src/main/java/com/programmingwithahmed/composeexample1/ui/screens/CoilImageScreen.kt,f\1\f16666b05b536285e67f691cc78ee9e9aaa3d3cb
